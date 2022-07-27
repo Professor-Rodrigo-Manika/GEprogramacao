@@ -1,0 +1,41 @@
+p{
+text-align: center;
+font-size: 2em;
+}
+
+.titulo{
+	text-align: center;
+	background: #00FF00;
+	font-size: 3em;
+	padding: 10px;
+}
+.Primeira-Imagem{
+	width: 100%;
+	padding:  20px;
+	border-width: 5px #7FFF00;
+	border-spacing: 20px;
+}
+
+Li{
+	display: inline;
+	font-size: 30px;
+	padding:  20px;
+}
+.texto{
+	font-size: 2em;
+
+}
+
+.cardápio{
+	width: 100%;
+	align-items: center;
+}
+
+.doritos{
+	text-align: center;
+	margin: 0 1.5%;
+}
+.chilli{
+	text-align: center;
+	margin: 0 1.5%;
+}
